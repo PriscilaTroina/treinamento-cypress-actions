@@ -1,5 +1,3 @@
-//Curso em andamento
-
 name: Cypress Testes
 
 on: [push]

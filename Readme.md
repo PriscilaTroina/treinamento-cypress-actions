@@ -2,13 +2,13 @@
 
 ## Sobre
 
-Repositório do treinamento: Workflow de testes contínuos em Cypress no Github Actions
+Repositório do treinamento: Workflow de testes contínuos em Cypress no Github Actions ministrado pela escola QAXperience. Nesse curso, aprendi sobre como criar um Workflow simples de Testes Contínuos e também evoluí sobre Cypress Cloud.
 
 ## Stacks
 - Cypress
 - Javascript
 - Cypress Dashboard
-- Tesults
+
 
 ## Rodando
 
@@ -27,6 +27,5 @@ yarn cypress open / npx cypress open
 yarn cypress run / npx cypress run 
 ```
 
-<hr>
-Curso disponível em https://qaxperience.com
+
 
